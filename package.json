@@ -1,0 +1,25 @@
+{
+  "name": "rick",
+  "version": "1.0.0",
+  "description": "- Prueba de una api y uso de asincronismo en javascript",
+  "main": "index.js",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:reto": "node src/callback/reto.js",
+    "promise": "node src/promise/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suricata01/pokeapijs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suricata01/pokeapijs/issues"
+  },
+  "homepage": "https://github.com/suricata01/pokeapijs#readme"
+}
